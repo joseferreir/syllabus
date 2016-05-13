@@ -1,6 +1,6 @@
 # Práticas de Programação 2016.1
 
-* **Professor:** Diogo Moreira, [diogo.moreira@ifpb.edu.br](diogo.moreira@ifpb.edu.br)
+* **Professor:** Diogo Moreira, [diogo.moreira@ifpb.edu.br](mailto:diogo.moreira@ifpb.edu.br)
 * **Horários de aula:**
     - Segunda-feira, de 07h às 09h30
     - Terça-feira, de 09:45 às 11:25
@@ -8,7 +8,7 @@
     * Utilize o chat no Gitter [![Join the chat at https://gitter.im/ads-ifpb-praticas-20161/syllabus](https://badges.gitter.im/ads-ifpb-praticas-20161/syllabus.svg)](https://gitter.im/ads-ifpb-praticas-20161/syllabus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
         * Sinta-se a vontade para enviar perguntas mesmo que ninguém esteja online, uma vez que o Gitter envia uma compilação das últimas mensagens aos que estão offline.
     * Crie um [issue](https://github.com/ads-ifpb-praticas-20161/syllabus/issues)
-   * [Email](diogo.moreira@ifpb.edu.br) para dúvidas individuais, ou para pedir acompanhamento
+   * [Email](mailto:diogo.moreira@ifpb.edu.br) para dúvidas individuais, ou para pedir acompanhamento
    * [Grupo de discussão](https://groups.google.com/forum/#!forum/ads-ifpb-praticas-programacao) para dúvidas de interesse de toda a turma.
 
 ## Ementa 
@@ -37,7 +37,7 @@ Tornar o aluno capacitado a:
 
 ## Trabalhos/Projetos
 
-As atividades da disciplina serão conduzidas por meio do [**Github Education**](http://classroom.github.com/classrooms/19227919-padroes-de-projeto-2016-1)
+As atividades da disciplina serão conduzidas por meio do [**Github Education**](https://classroom.github.com/classrooms/19227919-padroes-de-projeto-2016-1)
 
 ### Fluxo de trabalho
 
