@@ -17,7 +17,8 @@ Projeto arquitetural de software. Automação da construção de aplicativos. In
 
 ## Aulas
 
-1. 10/05/2016 - [Apresentação](#user-content-apresentacao)
+1. [Apresentação](#user-content-apresentacao)
+2. [Controle de Versão](#user-content-vcs)
 
 ## Objetivos
 
@@ -47,18 +48,49 @@ Aqui serão adicionadas as instruções sobre como será feita a entrega de trab
 
 ### 1. <a name="apresentacao">Apresentação da disciplina</a>
 
-1. Contextualização e Motivação
-2. Objetivos
-2. Horários de aulas
-3. Meios de comunicação
-4. Avaliações
-5. Dicas para melhor aproveitamento da disciplina
+- Contextualização e Motivação
+- Objetivos
+- Horários de aulas
+- Meios de comunicação
+- Avaliações
+- Dicas para melhor aproveitamento da disciplina
 
 #### Atividades
 
 * Nenhuma atividade para esta aula.
 
 ---
+
+### 2. <a name="vcs">Controle de Versão</a>
+
+**Data das aulas**: 16/05/2016, 18/05/2016 e 23/05/2016<br/>
+**Slide**: https://www.dropbox.com/s/foo6h77mumsfx9m/01-controle-de-versao-slide-23052016.pdf?dl=0
+
+- Contextualização e Motivação
+- Funcionamento de um controle de versão
+- Métodos de edição (Optimistic Merge e Exclusive Lock)
+- Controle de Versão Local
+- Controle de Versão Centralizado
+- SVN
+    + Fluxo de trabalho básico com SVN (`checkout`, `update`, `commit`)
+- Controle de Versão Distribuído
+- GIT
+    + Fluxo de trabalho básico
+    + Branching
+    + Merging
+    + Tags e Semantic Versioning
+    + Remotos
+    + Push/Pull/Fetch
+    + Bare e Non-bare repositories
+    + Git Daemon
+
+#### Atividades
+
+* Atividade em sala no dia 24/05/2016.
+
+---
+
+
 
 ## Grupos
 
@@ -76,7 +108,9 @@ Aqui serão adicionadas as instruções sobre como será feita a entrega de trab
 
 ### Leituras recomendadas
 
-* Sem links no momento.
+* **Git**
+    - Pro Git Book - https://git-scm.com/book/pt-br/v1
+    - A successful git branching model - http://nvie.com/posts/a-successful-git-branching-model/
 
 ## Avaliações
 
