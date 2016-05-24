@@ -86,7 +86,7 @@ Aqui serão adicionadas as instruções sobre como será feita a entrega de trab
 
 #### Atividades
 
-* Atividade em sala no dia 24/05/2016.
+* Atividade em sala no dia 24/05/2016. Link: https://classroom.github.com/group-assignment-invitations/a20f5dc1eeb177ced165a60b85d4c429
 
 ---
 
