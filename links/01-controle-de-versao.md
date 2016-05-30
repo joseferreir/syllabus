@@ -1,7 +1,6 @@
 # Links de expansão
 
-## Grok Podcast sobre Controle de Versão (Dá pra ter uma noção boa de como era trabalhar antigamente)
-- http://www.grokpodcast.com/series/sistemas-de-controle-de-vers-o/
+- Grok Podcast sobre Controle de Versão (Dá pra ter uma noção boa de como era trabalhar antigamente) - http://www.grokpodcast.com/series/sistemas-de-controle-de-vers-o/
 
 - https://projetos.inf.ufsc.br/arquivos_projetos/projeto_546/resumo2.doc
 - https://git-scm.com/book/pt-br/v1/Primeiros-passos-Sobre-Controle-de-Vers%C3%A3o
