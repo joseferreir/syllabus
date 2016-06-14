@@ -90,6 +90,11 @@ Aqui serão adicionadas as instruções sobre como será feita a entrega de trab
 
 * Atividade em sala no dia 24/05/2016. Link: https://classroom.github.com/group-assignment-invitations/a20f5dc1eeb177ced165a60b85d4c429
 
+### 3. <a name="construcao">Construção de aplicativos</a>
+
+#### Atividades
+
+* Atividade em sala no dia 14/06/2016. Link: https://classroom.github.com/group-assignment-invitations/a93cff7189be42fe4aac6888f3bacaa9
 ---
 
 
