@@ -95,8 +95,8 @@ Aqui serão adicionadas as instruções sobre como será feita a entrega de trab
 #### Atividades
 
 * Atividade em sala no dia 14/06/2016. Link: https://classroom.github.com/group-assignment-invitations/a93cff7189be42fe4aac6888f3bacaa9
----
 
+---
 
 
 ## Grupos
@@ -122,4 +122,4 @@ Aqui serão adicionadas as instruções sobre como será feita a entrega de trab
 ## Avaliações
 
 * Atividades – 40%
-* Projeto (dividido em 3 *releases*)– 60%
+* [Projeto](https://www.dropbox.com/s/4rs9mlgqioputg4/projeto-praticas.pdf?dl=0) (dividido em 3 *releases*)– 60%
