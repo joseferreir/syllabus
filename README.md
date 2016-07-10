@@ -19,6 +19,7 @@ Projeto arquitetural de software. Automação da construção de aplicativos. In
 
 1. [Apresentação](#user-content-apresentacao)
 2. [Controle de Versão](#user-content-vcs)
+3. [Construção de aplicativos](#user-content-construcao-apps)
 
 ## Objetivos
 
@@ -91,6 +92,24 @@ Aqui serão adicionadas as instruções sobre como será feita a entrega de trab
 * Atividade em sala no dia 24/05/2016. Link: https://classroom.github.com/group-assignment-invitations/a20f5dc1eeb177ced165a60b85d4c429
 
 ### 3. <a name="construcao">Construção de aplicativos</a>
+
+**Data das aulas**: 30/05/2016, 31/05/2016, 06/06/2016, 07/06/2016 e 13/06/2016<br/>
+**Slide**: https://www.dropbox.com/s/uron2voqm1nvarv/02-construcao-de-apps-ant-10072016.pdf?dl=0 e https://www.dropbox.com/s/gym9d9bq649hc8n/02-construcao-de-apps-maven-10072016.pdf?dl=0
+
+- Processo de construção
+- Ant
+- Maven
+    + O que é o Maven?
+    + Por que usar?
+    + Instalação
+    + O POM
+    + Identificação de projetos
+    + Archetypes
+    + Ciclo de vida
+    + Tarefas comuns
+    + Dependências
+- Repositórios de pacotes
+    + Artifactory
 
 #### Atividades
 
